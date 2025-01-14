@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    background-color: #000000;
+    background-color: #6dc4d7da;
     font-family: 'Roboto', sans-serif;
     font-weight: 300 !important;
 }
@@ -61,7 +61,7 @@ button {
 }
 
 .navbar {
-    background-color: #000000;
+    background-color: #93c4ce;
 }
 
 .nav-link {
@@ -71,7 +71,7 @@ button {
 
 .navbar-toggler {
     font-size: 2.2rem;
-    color: #ffffff;
+    color: #c5bd67;
 }
 
 .navbar-toggler:focus {
