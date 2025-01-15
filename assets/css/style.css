@@ -61,7 +61,7 @@ button {
 }
 
 .navbar {
-    background-color: #849baa;
+    background-color: #1b4946;
 }
 
 .nav-link {
@@ -71,7 +71,7 @@ button {
 
 .navbar-toggler {
     font-size: 2.2rem;
-    color: #435274;
+    color: #ffffff;
 }
 
 .navbar-toggler:focus {
