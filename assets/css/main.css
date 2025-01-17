@@ -87,6 +87,12 @@ h6 {
   font-family: var(--heading-font);
 }
 
+h1 .color-orange {
+
+  color: #eacba7;
+
+} 
+
 /* PHP Email Form Messages
 ------------------------------*/
 .php-email-form .error-message {
