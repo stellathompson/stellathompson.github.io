@@ -21,7 +21,7 @@
 :root { 
   --background-color: #3b719f; /* Background color for the entire website, including individual sections */
   --default-color: #fafafa; /* Default color used for the majority of the text content across the entire website */
-  --heading-color: #a7eac0; /* Color for headings, subheadings and title throughout the website */
+  --heading-color: #b5f0cb; /* Color for headings, subheadings and title throughout the website */
   --accent-color: #dcabb8; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
   --surface-color: #1a1a1a; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
   --contrast-color: #000000; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
@@ -30,7 +30,7 @@
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
 :root {
   --nav-color: #fafafa;  /* The default color of the main navmenu links */
-  --nav-hover-color: #e3db9c; /* Applied to main navmenu links when they are hovered over or active */
+  --nav-hover-color: #e3da95; /* Applied to main navmenu links when they are hovered over or active */
   --nav-mobile-background-color: #3b719f; /* Used as the background color for mobile navigation menu */
   --nav-dropdown-background-color: #1a1a1a; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
   --nav-dropdown-color: #fafafa; /* Used for navigation links of the dropdown items in the navigation menu. */
@@ -78,16 +78,12 @@ a:hover {
 }
 
 h1,
+h2,
 h3,
 h4,
 h5,
 h6 {
   color: var(--heading-color);
-  font-family: var(--heading-font);
-}
-
-h2 {
-  color: #eacba7;
   font-family: var(--heading-font);
 }
 
