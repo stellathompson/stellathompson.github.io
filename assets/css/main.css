@@ -22,7 +22,7 @@
   --background-color: #3b719f; /* Background color for the entire website, including individual sections */
   --default-color: #fafafa; /* Default color used for the majority of the text content across the entire website */
   --heading-color: #a7eac0; /* Color for headings, subheadings and title throughout the website */
-  --accent-color: #dc91a5; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+  --accent-color: #dcabb8; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
   --surface-color: #1a1a1a; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
   --contrast-color: #000000; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
 }
@@ -78,12 +78,16 @@ a:hover {
 }
 
 h1,
-h2,
 h3,
 h4,
 h5,
 h6 {
   color: var(--heading-color);
+  font-family: var(--heading-font);
+}
+
+h2 {
+  color: #eacba7;
   font-family: var(--heading-font);
 }
 
