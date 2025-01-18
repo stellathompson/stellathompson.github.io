@@ -89,7 +89,7 @@ h6 {
 
 h1 .color-orange {
 
-  color: #ffc6d5;
+  color: #fcc4b8;
 
 } 
 
@@ -481,10 +481,10 @@ h1 .color-orange {
   align-items: center;
   justify-content: center;
   background: var(--accent-color);
-  color: var(--contrast-color);
+  color: var(--default-color);
   line-height: 1;
   margin: 0 4px;
-  border-radius: 50%;
+  border-radius: 75%;
   text-align: center;
   width: 36px;
   height: 36px;
