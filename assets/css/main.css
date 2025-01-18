@@ -480,8 +480,7 @@ h1 .color-orange {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: var(--accent-color);
-  color: var(--default-color);
+  color: var(--accent-color);
   line-height: 1;
   margin: 0 4px;
   border-radius: 75%;
