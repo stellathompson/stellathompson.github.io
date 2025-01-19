@@ -47,7 +47,7 @@
 .dark-background {
   --background-color: #3b719f;
   --default-color: #ffffff;
-  --heading-color: #eacba7;
+  --heading-color: #fec584;
   --surface-color: #292929f9;
   --contrast-color: #000000;
 }
@@ -89,7 +89,7 @@ h6 {
 
 h1 .color-orange {
 
-  color: #fcc4b8;
+  color: #fec584;
 
 } 
 
