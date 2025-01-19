@@ -689,7 +689,7 @@ section,
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-.hero {
+/* .hero {
   width: 100%;
   min-height: 100vh;
   position: relative;
@@ -760,12 +760,12 @@ section,
   .hero p {
     font-size: 20px;
   }
-}
+} */
 
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
-.about .content h2 {
+/* .about .content h2 {
   font-weight: 700;
   font-size: 24px;
 }
@@ -790,12 +790,12 @@ section,
   margin-right: 5px;
   color: var(--accent-color);
   line-height: 0;
-}
+} */
 
 /*--------------------------------------------------------------
 # Stats Section
 --------------------------------------------------------------*/
-.stats i {
+/* .stats i {
   background-color: var(--surface-color);
   color: var(--accent-color);
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.1);
@@ -835,12 +835,12 @@ section,
   margin: 0;
   font-family: var(--heading-font);
   font-size: 16px;
-}
+} */
 
 /*--------------------------------------------------------------
 # Skills Section
 --------------------------------------------------------------*/
-.skills .progress {
+/* .skills .progress {
   height: 60px;
   display: block;
   background: none;
@@ -872,12 +872,12 @@ section,
   height: 10px;
   transition: 0.9s;
   background-color: var(--accent-color);
-}
+} */
 
 /*--------------------------------------------------------------
 # Interests Section
 --------------------------------------------------------------*/
-.interests .features-item {
+/* .interests .features-item {
   background-color: var(--surface-color);
   display: flex;
   align-items: center;
@@ -912,12 +912,12 @@ section,
 
 .interests .features-item:hover h3 a {
   color: var(--accent-color);
-}
+} */
 
 /*--------------------------------------------------------------
 # Testimonials Section
 --------------------------------------------------------------*/
-.testimonials .testimonials-carousel,
+/* .testimonials .testimonials-carousel,
 .testimonials .testimonials-slider {
   overflow: hidden;
 }
@@ -998,7 +998,7 @@ section,
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
   background-color: var(--accent-color);
-}
+} */
 
 /*--------------------------------------------------------------
 # Resume Section
@@ -1062,7 +1062,7 @@ section,
 /*--------------------------------------------------------------
 # Services Section
 --------------------------------------------------------------*/
-.services .service-item {
+/* .services .service-item {
   background-color: var(--surface-color);
   text-align: center;
   padding: 80px 20px;
@@ -1135,12 +1135,12 @@ section,
 .services .service-item:hover h3,
 .services .service-item:hover p {
   color: var(--contrast-color);
-}
+} */
 
 /*--------------------------------------------------------------
 # Service Details Section
 --------------------------------------------------------------*/
-.service-details .services-list {
+/* .service-details .services-list {
   background-color: var(--surface-color);
   padding: 10px 30px;
   border: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
@@ -1201,12 +1201,12 @@ section,
   font-size: 20px;
   margin-right: 8px;
   color: var(--accent-color);
-}
+} */
 
 /*--------------------------------------------------------------
 # Portfolio Section
 --------------------------------------------------------------*/
-.portfolio .portfolio-filters {
+/* .portfolio .portfolio-filters {
   padding: 0;
   margin: 0 auto 20px auto;
   list-style: none;
@@ -1313,12 +1313,12 @@ section,
 
 .portfolio .portfolio-content:hover img {
   transform: scale(1.1);
-}
+} */
 
 /*--------------------------------------------------------------
 # Portfolio Details Section
 --------------------------------------------------------------*/
-.portfolio-details .portfolio-details-slider img {
+/* .portfolio-details .portfolio-details-slider img {
   width: 100%;
 }
 
@@ -1375,19 +1375,18 @@ section,
 .portfolio-details .portfolio-description p {
   padding: 0;
   color: color-mix(in srgb, var(--default-color), transparent 30%);
-}
+} */
 
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
+/* .starter-section { */
   /* Add your styles here */
-}
 
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
-.contact .info-item {
+/* .contact .info-item {
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
   padding: 20px 30px;
 }
@@ -1478,8 +1477,12 @@ section,
 
 .contact .php-email-form button[type=submit]:hover {
   background: color-mix(in srgb, var(--accent-color), transparent 20%);
-}
+} */
 
+/* 
+Skip to main content link
+Taken from: https://www.freecodecamp.org/news/how-to-add-skip-to-main-content-links-to-a-website/
+*/
 
 .skip-to-main-content-link {
   position: absolute;
