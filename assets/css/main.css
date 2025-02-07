@@ -1498,3 +1498,8 @@ Taken from: https://www.freecodecamp.org/news/how-to-add-skip-to-main-content-li
   transform: translateX(-50%);
   opacity: 1;
 }
+
+img {
+  max-width: 80%;
+  height: auto;
+}
