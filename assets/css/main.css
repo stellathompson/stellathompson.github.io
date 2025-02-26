@@ -1503,3 +1503,9 @@ img {
   max-width: 80%;
   height: auto;
 }
+
+video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
