@@ -1509,3 +1509,8 @@ video {
   height: auto;
   display: block;
 }
+
+.video-caption {
+  text-align: center; 
+  margin-top: 10px; 
+}
